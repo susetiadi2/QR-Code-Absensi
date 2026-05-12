@@ -1,0 +1,8 @@
+{
+  "name": "Sistem Absensi QR SAAS",
+  "description": "Aplikasi Presensi Siswa menggunakan QR Code Scanner (Kamera HP) dengan arsitektur multi-tenant (SAAS) via Google Sheets.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
