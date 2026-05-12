@@ -4,7 +4,7 @@
  */
 
 import React, { useState } from 'react';
-import { BrowserRouter as Router, Routes, Route, Navigate, useNavigate, Link, useLocation } from 'react-router-dom';
+import { HashRouter as Router, Routes, Route, Navigate, useNavigate, Link, useLocation } from 'react-router-dom';
 import { 
   LogIn, Users, QrCode, FileSpreadsheet, LogOut, Download, Upload, UserPlus, CheckCircle2,
   Home, GraduationCap, Presentation, ClipboardList, CalendarCheck, ScanLine, 
